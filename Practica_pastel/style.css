@@ -1,0 +1,102 @@
+.root{
+    margin: 0;
+     width: 100%;
+    height: 100%;
+    color:rgb(0, 0, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+}
+
+.header{
+    margin:10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    background: rgb(255, 255, 255);
+    text-align: center;
+    color:rgb(144, 182, 155);
+    width: 100%;
+    height: 100%;
+    font-family: 'Roboto Slab', serif;
+   
+}
+.menu{
+    margin: 0;
+}
+.navbar-brand {
+    color: rgb(66, 199, 183);
+    font-family: 'Roboto Slab', serif;    
+}
+
+.button{
+    color:rgb(255, 255, 255);
+    background-color: @media screen and (min-width: ) {
+    
+    };
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.contenedor{
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    background: rgb(255, 255, 255);
+    text-align: center;
+    color:rgb(250, 250, 250);
+    font-family: fantasy;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+       text-align: center;
+}
+
+.article{
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    color:rgb(10, 10, 10);
+    font-family: fantasy;
+    text-align: center;
+    justify-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.section{
+    margin: 20px
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    font-family: fantasy;
+    justify-content: left;
+    text-align: center;
+
+}
+
+.div{
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    justify-content: center;
+}
+.img{
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    justify-content: center;
+}
+.h1,h2,h3{
+    margin-top: 29px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(0, 0, 0);
+    font-size: 1rem;
+    text-align: center;
+    justify-content: center;
+
+
+}
+@media screen 720px {
+    
+}
